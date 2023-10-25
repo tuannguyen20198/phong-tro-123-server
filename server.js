@@ -6,7 +6,7 @@ import initRoutes from "./src/routes";
 import connectDatabase from "./src/config/connectDatabase";
 app.use(
   cors({
-    origin: process.env.CLIENT_URL,
+    origin: "*",
     methods: ["POST", "GET", "PUT", "DELETE"],
   })
 );

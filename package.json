@@ -28,7 +28,7 @@
     "@babel/node": "^7.22.10",
     "@babel/preset-env": "^7.22.14",
     "prettier": "3.0.3",
-    "sequelize": "^6.32.1",
+    "sequelize": "^6.33.0",
     "sequelize-cli": "^6.6.1"
   },
   "engines": {

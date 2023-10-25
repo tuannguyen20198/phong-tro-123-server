@@ -5,12 +5,15 @@ const sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USERNAME, pr
   host: process.env.DB_HOST,
   dialect: process.env.DB_DIALECT,
   logging: false,
-  dialectOptions:{
-    ssl: {
-      require: true,
-      rejecUnauthorized: false
-    }
-  }
+  dialectOptions: {
+    ssl: true,
+  },
+  // dialectOptions:{
+  //   ssl: {
+  //     require: true,
+  //     rejecUnauthorized: false
+  //   }
+  // }
 });
 const connectDatabase = async () => {
   try {

@@ -6,6 +6,7 @@
     "host": "dpg-ckrrgg62eoec739gdkjg-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "logging": false,
+    "ssl": true,
     "dialectOptions":{
     "ssl": {
       "require": true,
@@ -20,6 +21,7 @@
     "host": "dpg-ckrrgg62eoec739gdkjg-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "logging": false,
+    "dialectOptions":{
     "ssl": {
       "require": true,
       "rejecUnauthorized": false

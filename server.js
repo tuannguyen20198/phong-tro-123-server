@@ -4,10 +4,9 @@ import cors from "cors";
 const app = express();
 import initRoutes from "./src/routes";
 import connectDatabase from "./src/config/connectDatabase";
-import {getNumberFromString} from "./src/utils/common";
 app.use(
   cors({
-    origin: '*',
+    origin: process.env.CLIENT_URL,
     methods: ["POST", "GET", "PUT", "DELETE"],
   })
 );

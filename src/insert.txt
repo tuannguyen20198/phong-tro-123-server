@@ -1,0 +1,171 @@
+INSERT INTO categories (code, value, header, subheader, "createdAt", updatedAt) VALUES ('CTPT','Cho thuê phòng trọ', 'Cho Thuê Phòng Trọ, Giá Rẻ, Tiện Nghi, Mới Nhất 2022', 'Cho thuê phòng trọ - Kênh thông tin số 1 về phòng trọ giá rẻ, phòng trọ sinh viên, phòng trọ cao cấp mới nhất năm 2022. Tất cả nhà trọ cho thuê giá tốt nhất tại Việt Nam.', current_timestamp, current_timestamp);
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+
+INSERT INTO categories (code, value, header, subheader, "createdAt", updatedAt) VALUES ('NCT', 'Nhà cho thuê','Cho Thuê Nhà Nguyên Căn, Giá Rẻ, Chính Chủ, Mới Nhất 2022', 'Cho thuê nhà nguyên căn - Kênh đăng tin cho thuê nhà số 1: giá rẻ, chính chủ, miễn trung gian, đầy đủ tiện nghi, mức giá, diện tích cho thuê khác nhau.', current_timestamp, current_timestamp);
+
+INSERT INTO categories (code, value, header, subheader, "createdAt", updatedAt) VALUES ('CTCH', 'Cho thuê căn hộ','Cho Thuê Căn Hộ Chung Cư, Giá Rẻ, Mới Nhất 2022', 'Cho thuê căn hộ - Kênh đăng tin cho thuê căn hộ số 1: giá rẻ, chính chủ, đầy đủ tiện nghi. Cho thuê chung cư với nhiều mức giá, diện tích cho thuê khác nhau.', current_timestamp, current_timestamp);
+
+INSERT INTO categories (code, value, header, subheader, "createdAt", updatedAt) VALUES ('CTMB', 'Cho thuê mặt bằng','Cho Thuê Mặt Bằng, Cho Thuê Văn Phòng, Cửa Hàng, Kiot, Mới Nhất 2022', 'Cho thuê mặt bằng - Kênh đăng tin cho thuê mặt bằng, cho thuê cửa hàng, cho thuê kiot số 1: giá rẻ, mặt tiền, khu đông dân cư, phù hợp kinh doanh.', current_timestamp, current_timestamp);
+
+
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('03688998-f8fd-419a-8cdf-f9fbf88e717d', '16 triệu/tháng', '100m2', '1 ngày trước', '605576', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('0ae616e8-1db3-4d73-95a5-0968bd71deda', '7 triệu/tháng', '31m2', '1 giờ trước', '605692', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('0cf9ddc2-4325-4464-8045-cd55d69c42c1', '6 triệu/tháng', '100m2', '1 ngày trước', '605621', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('0f1a0345-18f8-4f00-bc6f-cda85632f01e', '10 triệu/tháng', '200m2', 'Hôm nay', '284965', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('0fd4c71a-e9fa-40d9-b646-cc2e99d5f092', '240 triệu/tháng', '407m2', '01/08/2022', '605201', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('1935cb57-bf99-4f71-8d85-f2b0a6905341', '17 triệu/tháng', '112m2', '1 giờ trước', '283266', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('1bee12fc-4e86-43f0-89b4-c4a1aafb158c', '5 triệu/tháng', '22m2', 'Hôm nay', '59783', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('1cad4bca-8087-4dcd-a965-f4fc8549ef41', '5 triệu/tháng', '120m2', 'Hôm nay', '604250', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('1e0a4112-a848-486b-b991-66f94d80e47a', '4.1 triệu/tháng', '21m2', 'Hôm nay', '296453', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('25f3bb65-9f9e-49cd-925c-6f9ecfb2ec0c', '2 triệu/tháng', '20m2', 'Hôm nay', '58962', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('28b45c2d-449b-47d3-80ac-d5dea9db19de', '3.9 triệu/tháng', '25m2', '5 giờ trước', '588451', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('28fbfc79-164d-4395-9dde-c7d36ece933d', '6 triệu/tháng', '40m2', 'Hôm nay', '605655', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('30b0427b-f2d4-4854-b077-1acbea447e10', '20 triệu/tháng', '151m2', '05/08/2022', '605411', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('30dda0fb-4406-46a0-8f42-cfcc433d83f9', '5 triệu/tháng', '90m2', '5 giờ trước', '605675', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('3214425f-5a36-4a5f-a003-3a7c6148158f', '1.7 triệu/tháng', '20m2', 'Hôm nay', '603145', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('33d02b11-b4f0-4edb-8b75-dba2496b7c6e', '3 triệu/tháng', '25m2', 'Hôm nay', '80204', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('35c89fad-c17b-4909-a5e7-87ad1aba0555', '3.2 triệu/tháng', '16m2', 'Hôm nay', '317927', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('3bb87dfe-b8a7-4d5b-865b-ddad5f971881', '3.5 triệu/tháng', '20m2', 'Hôm nay', '605646', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('3ee576c2-b5b1-4f72-bc90-ddc58488a451', '26 triệu/tháng', '45m2', '2 ngày trước', '605565', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('44865feb-2d92-477b-b1e6-182935f74a91', '3 triệu/tháng', '20m2', '03/08/2022', '316380', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('454ccbc1-85dc-4502-b36d-ac7c18f5bb35', '4 triệu/tháng', '102m2', '1 ngày trước', '605625', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('45ee7e8b-c102-4244-95f6-e7ec7889de4a', '7.5 triệu/tháng', '40m2', '2 giờ trước', '585449', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('4b9d29ef-0eb9-46d3-a84e-59da37dd2aa9', '7.5 triệu/tháng', '40m2', '2 giờ trước', '303794', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('50b7a0b9-037c-4efb-83f8-608335f64b15', '16 triệu/tháng', '85m2', '3 ngày trước', '605510', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('53a5da48-b85f-4a46-9098-c37147b76ae9', '16 triệu/tháng', '75m2', '2 ngày trước', '605265', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('5fb266f8-101b-431f-b2f7-4bbd06ca18c3', '2.5 triệu/tháng', '27m2', '7 phút trước', '66857', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('606ad73f-2125-4695-a506-46b1f915c6dd', '5 triệu/tháng', '35m2', '8 phút trước', '605467', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('60b039fa-ef65-4fe6-a134-92569c8a9dee', '5 triệu/tháng', '25m2', '18 phút trước', '602626', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('62d95b8e-a253-4fb1-bb5d-d5faa0c0d722', '5 triệu/tháng', '30m2', '1 ngày trước', '605605', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('691ac74d-d302-4f5b-936b-d3df5f13fdf1', '18 triệu/tháng', '140m2', '01/08/2022', '605178', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('6e5b63fb-27b5-47f5-b501-a7dccf77db4c', '20 triệu/tháng', '363m2', 'Hôm nay', '604998', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('70914821-3888-44f7-aa9f-50a333a6f075', '1.4 triệu/tháng', '30m2', 'Hôm nay', '605017', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('73acad1e-3367-4353-b4b3-868f72dfcbbc', '6.4 triệu/tháng', '30m2', '2 giờ trước', '605488', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('7428631a-49c5-4ad2-9e1c-a6e56d9c5ef9', '28 triệu/tháng', '300m2', '1 ngày trước', '605575', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('767bc146-5478-440a-bfe4-9854bed53762', '3.8 triệu/tháng', '20m2', 'Hôm nay', '605027', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('76ef46ad-67bc-4a53-814e-54d156c6ce81', '350.000 đồng/tháng', '999m2', '03/08/2022', '605309', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('7f876aeb-42bc-47d1-8283-b76167b76753', '5 triệu/tháng', '30m2', '2 giờ trước', '594264', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('82e5a6cd-8072-44cc-8ae2-27918a54aebd', '5 triệu/tháng', '1000m2', '06/08/2022', '204258', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('8399939b-9b86-49eb-ba40-5c92006f50b4', '6.5 triệu/tháng', '20m2', '2 giờ trước', '605447', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('8497cad6-50f1-417a-afbf-5a2215883a10', '6.5 triệu/tháng', '64m2', '58 phút trước', '605694', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('85105623-b76b-42e8-9400-4c2fd2f802ed', '7 triệu/tháng', '40m2', 'Hôm nay', '605524', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('856e0d0f-7f56-4ece-bfe6-80f898f7aaaf', '8 triệu/tháng', '100m2', '1 ngày trước', '605599', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('86e1567f-ccfa-428a-b930-0a3a456a387f', '5 triệu/tháng', '30m2', '2 ngày trước', '605543', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('86e72f94-4b1b-463b-95a0-bbc40d51c9f5', '5.8 triệu/tháng', '32m2', 'Hôm nay', '605460', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('8ce2f7a6-f2ee-4270-a9c8-e157dab67e8f', '8 triệu/tháng', '30m2', '1 ngày trước', '605603', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('8dcad378-a526-476b-b030-843ebbcbc7c1', '12 triệu/tháng', '200m2', '1 ngày trước', '605610', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('8f55a531-d963-4b3c-bbfc-26861ab2c4e0', '1.5 triệu/tháng', '12m2', 'Hôm nay', '605551', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('90d0a348-e37c-4125-afb9-74fcf52f402f', '2 triệu/tháng', '16m2', 'Hôm nay', '310631', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('94f10e10-4713-40af-acab-19a9c7c3bbdc', '10 triệu/tháng', '48m2', '2 giờ trước', '604539', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('95d5e573-433d-4740-9042-8d5d23c6b8ed', '3.5 triệu/tháng', '24m2', 'Hôm nay', '282621', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('9aab190e-bfbf-4f8e-9c74-884f2e8c1ad7', '12 triệu/tháng', '35m2', '2 ngày trước', '317622', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('9d7427c9-1d76-457f-873d-51b26278f602', '30 triệu/tháng', '105m2', '2 ngày trước', '602457', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('a1aa725f-2474-4700-ae40-df1c5e4650f7', '50 triệu/tháng', '110m2', '06/08/2022', '605478', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('a3b9b280-6e55-4157-a53a-406d3cceb1c8', '4.5 triệu/tháng', '20m2', '49 phút trước', '598936', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('a4b22d18-104e-4cbd-86d4-9a95a15c7624', '1.2 triệu/tháng', '30m2', '6 giờ trước', '603516', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('a92914cd-fa46-4e9e-a9da-291471baa696', '5.9 triệu/tháng', '70m2', '1 giờ trước', '276599', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('ac1b7367-4118-47d0-9ac8-f95d742a9ae8', '8 triệu/tháng', '80m2', '16 giờ trước', '605654', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('adf19d73-794a-46bf-9ea0-c4fe4a475274', '4.5 triệu/tháng', '25m2', '6 giờ trước', '599644', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('b0ea61df-32b5-4404-8f37-d8488272062f', '5 triệu/tháng', '35m2', '1 giờ trước', '605693', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('b372ad10-4a19-469c-a4cf-9ed316652ba5', '10 triệu/tháng', '32m2', '6 giờ trước', '605337', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('b6333bb2-09d2-4f38-b45f-140cebedaec4', '5 triệu/tháng', '48m2', 'Hôm nay', '595850', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('b6fca865-a637-4a07-8db9-e99c1ff9eadd', '8.8 triệu/tháng', '50m2', 'Hôm nay', '605643', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('b8c2b10a-c662-4680-8133-c4fe4c5129a2', '16 triệu/tháng', '112m2', '1 giờ trước', '602889', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('badd9ab1-57f6-4001-8a1a-c807f0b77253', '2.3 triệu/tháng', '20m2', 'Hôm nay', '311800', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('bd016595-dba7-4ca9-a5ee-0595ef29dd72', '3 triệu/tháng', '70m2', '8 giờ trước', '605629', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('c23af47c-9b9a-4364-b2bd-625566152669', '7 triệu/tháng', '30m2', '1 ngày trước', '605585', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('c34ca7c8-a3b2-422e-aa75-996ec14f5004', '7.5 triệu/tháng', '70m2', '1 giờ trước', '602514', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('c3cac291-a96e-4e86-b274-c2ea29b2d44d', '20 triệu/tháng', '150m2', '1 ngày trước', '605577', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('c4314102-6c1a-4ca8-98ca-c7335b83b19a', '4.2 triệu/tháng', '55m2', '1 ngày trước', '599068', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('c781562d-6bac-4328-9dd7-d6b1d02dc145', '700.000 đồng/tháng', '20m2', 'Hôm nay', '294491', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('c9c5f2d1-73f2-4228-b009-7c7db033f73c', '6 triệu/tháng', '100m2', '23 giờ trước', '605639', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('d9a773ef-2b0d-4b48-abc9-bbfb0a60d45e', '5.5 triệu/tháng', '40m2', 'Hôm nay', '605648', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('dafe2579-2293-495b-9c80-098c74a7f4c9', '1.4 triệu/tháng', '25m2', 'Hôm nay', '605019', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('dd2a3e73-3e7c-4984-8adf-2875c5ece099', '5 triệu/tháng', '30m2', 'Hôm nay', '277052', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('e1d7114c-06f4-40d6-b8ef-782d92589583', '900.000 đồng/tháng', '28m2', 'Hôm nay', '605018', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('ec3dfaf4-f0c4-4cad-858f-005ba8bfa1cb', '7 triệu/tháng', '22m2', '2 giờ trước', '605489', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('f84d47e5-1b7f-4c56-b63d-69cf5e798b1b', '30 triệu/tháng', '162m2', '1 ngày trước', '605594', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('fab1ba2b-3a79-4375-874e-19dfadb125cc', '4.5 triệu/tháng', '22m2', 'Hôm nay', '83144', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('fc928433-d4b8-4857-9570-2e58f6be04a9', '40 triệu/tháng', '450m2', '1 ngày trước', '605638', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+INSERT INTO public."Attributes" (id, price, acreage, published, hashtag, "createdAt", "updatedAt") VALUES
+('fe76af6a-e1a7-4d6c-9514-5c59d083498f', '20 triệu/tháng', '750m2', '06/08/2022', '242440', '2023-10-23 14:00:29', '2023-10-23 14:00:29');
+

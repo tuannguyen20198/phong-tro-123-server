@@ -1,7 +1,7 @@
 import db from "../models";
 const { Op } = require("sequelize") ;
 import {v4 as generateId} from "uuid"
-import {generateCode} from "../utils/generateCode";
+import generateCode from "../utils/generateCode";
 import moment from "moment"
 import generateDate from "../utils/generateDate";
 require("dotenv").config();

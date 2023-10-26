@@ -1,4 +1,4 @@
-import { generateCode } from "./generateCode";
+import  generateCode  from "./generateCode";
 
 export const prices = [
   {

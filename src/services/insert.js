@@ -8,7 +8,7 @@ import chothuematbang from "../../data/chothuematbang.json";
 
 import {dataPrice, dataArea} from "../utils/data";
 import {getNumberFromString,getNumberFromStringV2} from "../utils/common";
-import  {generateCode}  from "../utils/generateCode";
+import generateCode from "../utils/generateCode";
 const dataBody = [
   {
     body: chothuephongtro.body,

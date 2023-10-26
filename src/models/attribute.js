@@ -13,6 +13,7 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: "attributesId",
         as: "attributes",
       });
+      
     }
   }
   Attribute.init(

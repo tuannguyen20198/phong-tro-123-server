@@ -5,9 +5,10 @@ import chothuephongtro from "../../data/chothuephongtro.json";
 import nhachothue from "../../data/nhachothue.json";
 import chothuecanho from "../../data/chothuecanho.json";
 import chothuematbang from "../../data/chothuematbang.json";
-import generateCode from "../utils/generateCode";
+
 import {dataPrice, dataArea} from "../utils/data";
 import {getNumberFromString,getNumberFromStringV2} from "../utils/common";
+import { generateCode } from "../utils/generateCode";
 const dataBody = [
   {
     body: chothuephongtro.body,

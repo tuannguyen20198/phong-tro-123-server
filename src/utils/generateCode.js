@@ -1,5 +1,5 @@
 require("dotenv").config();
-const generateCode = (value) => {
+export const generateCode = (value) => {
   let output = "";
   value = value
     .normalize("NFD")
@@ -19,4 +19,3 @@ const generateCode = (value) => {
   }
   return `${value.charAt(2)}${output}`.toUpperCase(); //M
 };
-export default generateCode
